@@ -2,6 +2,10 @@
 ###  1 Introduction
 <b>LDBlockShow</b> is a fast and effective tool to generate linkage disequilibrium (LD) heatmap from VCF files. It is more time and memory saving than other current tools. LDBlockShow can generate the plots of LD heatmap and interested statistics or annotation results simultaneously. In addition, it also supports subgroup analysis.
 
+The <i><b>[LDBlockShow article](https://doi.org/10.1093/bib/bbaa227)</b></i> has been published in <b> [briefings in bioinformatics]( https://doi.org/10.1093/bib/bbaa227) magazine</b>, please cited this article if possible
+
+DOI:[10.1093/bib/bbaa227]( https://doi.org/10.1093/bib/bbaa227) 
+
 ###  2 Download and Install
 ------------
 
@@ -306,6 +310,8 @@ To evaluate the performance of LDBlockShow, we used test VCF files to generate t
 ------------
 - [:email:](https://github.com/BGI-shenzhen/LDBlockShow) hewm2008@gmail.com / hewm2008@qq.com
 - join the<b><i> QQ Group : 125293663</b></i>
+- The <i><b>[LDBlockShow article](https://doi.org/10.1093/bib/bbaa227)</b></i> has been published in <b> [briefings in bioinformatics]( https://doi.org/10.1093/bib/bbaa227) magazine</b>, please cited this article if possible
+- DOI:[10.1093/bib/bbaa227]( https://doi.org/10.1093/bib/bbaa227) 
 
 ######################swimming in the sky and flying in the sea #############################
 
